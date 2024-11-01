@@ -1,0 +1,7 @@
+{
+    "name": "e-commerce",
+    "scripts": {
+      "build": "babel src -d lib",
+      "test": "jest"
+    }
+  }
